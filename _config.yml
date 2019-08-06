@@ -92,7 +92,7 @@ paginate_path: "blog/page:num"
 
 # AUTHORS
 authors:
- cassidy: # author-id
+  cassidy: # author-id
     name: Cassidy Holahan
     avatar: "assets/img/avatars/cassidy_avatar.jpg"
     url:
