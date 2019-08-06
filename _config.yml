@@ -92,14 +92,18 @@ paginate_path: "blog/page:num"
 
 # AUTHORS
 authors:
-  mhagnumdw: # author-id
-    name: MhagnumDw
-    avatar: "assets/img/avatars/mhagnumdw_avatar.jpg"
+ cassidy: # author-id
+    name: Cassidy Holahan
+    avatar: "assets/img/avatars/cassidy_avatar.jpg"
     url:
-  sylhare:
-    name: Sylhare
-    avatar: "assets/img/avatars/sylhare_avatar.png"
-    url: "https://github.com/sylhare"
+  ina:
+    name: Ina Chen
+    avatar: "assets/img/avatars/ina_avatar.png"
+    url: "https://github.com/redadvance"
+  thyo:
+    name: Dorothy Pierre-Louis
+    avatar: "assets/img/avatars/thyo_avatar.png"
+    url: 
 
 # PORTFOLIO
 collections:
