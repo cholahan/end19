@@ -5,9 +5,118 @@ permalink: /about/
 feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Archive]
 ---
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+html {
+  box-sizing: border-box;
+}
 
-END TEAM Summer 2019. We are...
+*, *:before, *:after {
+  box-sizing: inherit;
+}
 
-{% include portfolio.html %}
+.column {
+  float: left;
+  width: 33.3%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.container {
+  padding: 0 16px;
+}
+
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: grey;
+}
+
+.button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+}
+
+.button:hover {
+  background-color: #555;
+}
+</style>
+</head>
+<body>
+
+<h2>END TEAM Summer 2019. We are...</h2>
+<br>
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="{{ "/assets/img/avatars/ina.jpg" | relative_url}}" alt="Ina" style="width:100%">
+      <div class="container">
+        <h2>Ina Chen</h2>
+        <p class="title">Team Member</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>example@example.com</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="{{ "/assets/img/avatars/ina.jpg" | relative_url}}" alt="Ina" style="width:100%">
+      <div class="container">
+        <h2>Cassidy Holahan</h2>
+        <p class="title">Team Member</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>example@example.com</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img src="{{ "/assets/img/avatars/ina.jpg" | relative_url}}" alt="Ina" style="width:100%">
+      <div class="container">
+        <h2>Thyo Pierre-Louis</h2>
+        <p class="title">Team Member</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>example@example.com</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
+
+
+
+
 
 
