@@ -2,7 +2,6 @@
 layout: page-wide
 title: Map
 permalink: /maps/
-tags: [Maps, Archive]
 ---
 
 <hr>

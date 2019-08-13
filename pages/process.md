@@ -1,10 +1,10 @@
---- 
+---
 layout: page
-title : Process 
+title : Process
 permalink: /process/
-subtitle: "Our project planning" 
+subtitle: "Our project planning"
 feature-img: "assets/img/pexels/computer.jpeg"
-tags: [Archive]
+tags: [Archive, Process]
 ---
 
 {% include portfolio.html %}
