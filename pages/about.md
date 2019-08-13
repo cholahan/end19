@@ -16,13 +16,13 @@ END TEAM Summer 2019. We are...
 
 <img style="float: left;" src="{{ "/assets/img/avatars/ina.jpg" | relative_url}}">
 
-<h2></h2>
+<h2>Cassidy Holahan</h2>
 
 ---
 
 <img style="float: right;" src="{{ "/assets/img/avatars/ina.jpg" | relative_url}}">
 
-<h2></h2>
+<h2>Thyo</h2>
 
 
 
