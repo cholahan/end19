@@ -6,12 +6,26 @@ feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Archive]
 ---
 
-END TEAM Summer 2019. We are....
+END TEAM Summer 2019. We are...
 
 <img style="float: right;" src="{{ "/assets/img/avatars/ina.jpg" | relative_url}}">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue.
+<h2>Ina Chen</h2>
 
-![Ina]({{ "/assets/img/avatars/ina.jpg" | relative_url}})
+---
+
+<img style="float: left;" src="{{ "/assets/img/avatars/ina.jpg" | relative_url}}">
+
+<h2></h2>
+
+---
+
+<img style="float: right;" src="{{ "/assets/img/avatars/ina.jpg" | relative_url}}">
+
+<h2></h2>
+
+
+
+
 
 
