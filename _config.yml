@@ -1,8 +1,8 @@
 # SITE CONFIGURATION
 baseurl: "/end19"
 url: "https://cholahan.github.io"
-title: END Map 2019 # site's title
-description: "Mapping locations in the title pages of 18th century novels" # used by search engines
+title: Geocoding Early Novels # site's title
+description: "Mapping the locations in 18th century novels' title pages" # used by search engines
 
 defaults:
   -
