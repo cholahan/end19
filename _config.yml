@@ -20,7 +20,7 @@ theme_settings:
 
   # Header and footer text
   header_text: Mapping locations in the title pages of 18th century novels
-  header_feature_image: assets/img/crusoe_map.jpg
+  header_feature_image: assets/img/map_africa.jpg
   footer_text: >
     A project using <a href="https://earlynovels.github.io/" target="blank">END Data</a></a>
 
