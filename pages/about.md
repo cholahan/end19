@@ -8,7 +8,7 @@ tags: [About, Archive]
 
 END TEAM Summer 2019. We are....
 
-{% if site.authors.ina %}
+<p>{{ site.authors.ina }}</p>
 
 <style>
 img {
