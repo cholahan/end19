@@ -3,7 +3,7 @@ layout: post
 title : Process
 permalink: /process/
 subtitle: "Our project planning"
-feature-img: "assets/img/pexels/computer.jpeg"
+feature-img: "assets/img/search.jpg"
 tags: [Archive, Process]
 ---
 
