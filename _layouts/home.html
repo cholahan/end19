@@ -9,8 +9,7 @@ layout: default
     <h1> {{ site.theme_settings.header_text }} </h1>
   </div>
   {% endif %}
-
-  <section class="post-content">
+  <section class="content">
   {% if page.bootstrap %}
     <div class="bootstrap-iso">
     {% endif %}
@@ -20,3 +19,9 @@ layout: default
   {% endif %}
   </section>
 </div>
+
+<style>
+.content {
+  margin: 35px;
+}
+</style>
