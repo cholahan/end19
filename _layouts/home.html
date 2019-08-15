@@ -10,7 +10,13 @@ layout: default
   </div>
   {% endif %}
 
-  <section class="post-content">{{ content }}</section>
-
-
+  <section class="post-content">
+  {% if page.bootstrap %}
+    <div class="bootstrap-iso">
+    {% endif %}
+      {{ content }}
+    {% if page.bootstrap %}
+    </div>
+  {% endif %}
+  </section>
 </div>
