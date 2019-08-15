@@ -7,7 +7,7 @@ permalink: /map/
 <hr>
 <h2 align="center"><a href="https://arcg.is/1XuzzH" target="blank">Map of Locations Mentioned in Title Pages of Early Novels</a></h2>
 <hr>
-<p style="margin: 50px"><b>How to use this map</b>: 
+<p style="margin-left: 50px; margin-right: 50px"><b>How to use this map</b>: 
   
 We separated the categories into different layers, which you can toggle between. Clicking on the points in the maps will show a pop up with more details. The locations transcribed category is when we edited the locations to provide a more accurate one for the geocoding software. Once you've clicked on certain map such as author gender, click on the arrow on the right hand side to open up the legend.  
 
