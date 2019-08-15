@@ -2,7 +2,7 @@
 layout: page
 title : Outcome 
 permalink: /outcome/
-subtitle: "Outcome" 
+subtitle: "" 
 feature-img: "assets/img/vision.jpg"
 tags: [Archive, Outcome]
 ---
