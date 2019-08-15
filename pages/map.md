@@ -1,7 +1,7 @@
 ---
 layout: page-wide
-title: Map of Locations Mentioned in Title Pages of Early Novels
-permalink: /maps/
+title: Map 
+permalink: /map/
 ---
 
 <hr>
