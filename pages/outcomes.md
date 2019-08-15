@@ -3,7 +3,7 @@ layout: page
 title : Outcomes
 permalink: /outcome/
 subtitle: ""
-feature-img: "assets/img/angelickworld.jpg"
+feature-img: "assets/img/sails.jpg"
 ---
 
 <p style="margin-left: 50px; margin-right: 50px">Outcomes - text goes here.</p>
