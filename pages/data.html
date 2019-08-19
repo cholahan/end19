@@ -1,9 +1,9 @@
 ---
+layout: page-wide
 title: Data
 permalink: /data/
 ---
 
-<a href="{{ site.url}}{{site.baseurl }}/" class="button">Home</a>
 <h2>Early Novels Title Locations</h2>
 
 <div class="table-wrapper">
@@ -20799,19 +20799,6 @@ permalink: /data/
      padding: 0;
 }
 
-.button {
-         background-color: black;
-         border: none;
-         color: white;
-         padding: 10px 14px;
-         text-align: center;
-         text-decoration: none;
-         display: inline-block;
-         font-size: 20px;
-         margin: auto;
-         cursor: pointer;
-         }
-
 /* Table Styles */
 
  .table-wrapper {
@@ -20828,6 +20815,7 @@ permalink: /data/
      max-width: 100%;
      /*white-space: nowrap;*/
      background-color: white;
+     overflow: visible;
 }
  .fl-table td, .fl-table th {
      text-align: left;
@@ -20845,7 +20833,7 @@ permalink: /data/
      position: -ms-sticky;
      position: -o-sticky;
      position: sticky;
-     top: 0;
+     top: 60px;
 }
  .fl-table thead th:nth-child(odd) {
      color: #ffffff;
