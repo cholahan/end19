@@ -7,6 +7,7 @@ feature-img: "assets/img/sails.jpg"
 ---
 
 <p style="margin-left: 50px; margin-right: 50px"> Outcomes - Conclusion/Takeaways 
+  
 
 While creating our map, we were especially interested in answering several questions: 
 - Did British authors prefer to write novels set in their own country or in foreign lands?
