@@ -31,10 +31,12 @@ feature-img: "assets/img/sails.jpg"
 
 <img src="{{ site.baseurl }}/assets/img/outcome/outcome_locations_USregions.png">
 
-<p>Given the time in which the authors are writing (the 17th and 18th centuries), most of the authors from our dataset were male.</P>
+<p></p>
+<p>Given the time in which the authors are writing (in the long eighteenth century), it was not suprising that most of the authors from our dataset were male.</P>
 
 <img src="{{ site.baseurl }}/assets/img/outcome/chart-gender.jpg" alt="chart-gender">
 
+<p></p>
 <p>However, we wanted to know which gender was more likely to set their stories in foreign (or even imaginary!) lands. Two of our researchers had opposing views on this matter. Ina hypothesized that female authors would be more likely to write novels set in Great Britain, while Cassidy hypothesized that female authors would be more likely to write novels set in foreign countries. After looking at the map, we found that female authors tended to set their stories in Great Britain.</p>
 
 <img src="{{ site.baseurl }}/assets/img/outcome/outcome_popularity_female.png" alt="female_authors">
