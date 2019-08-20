@@ -28,14 +28,15 @@ feature-img: "assets/img/sails.jpg"
 <img src="{{ site.baseurl }}/assets/img/outcome/outcome_popularlocations_updated.jpg" alt="chart-gender">
 <img src="{{ site.baseurl }}/assets/img/outcome/outcome_cities.jpg" alt="chart-gender">
 
-<p>
+<p>We found that 
 
 <img src="{{ site.baseurl }}/assets/img/outcome/outcome_locations_USregions.png" alt="chart-gender">
 
+<p>Given the time in which the authors are writing (the 17th and 18th centuries), most of the authors from our dataset were male.</P>
 
 <img src="{{ site.baseurl }}/assets/img/outcome/chart-gender.jpg" alt="chart-gender">
 
-<p>Given the time in which the authors are writing (the 17th and 18th centuries), most of the authors in general are male but we wanted to know which gender was more likely to set their stories in foreign (or even imaginary!) lands. Two of our researchers had opposing views on this matter. Ina hypothesized that female authors would be more likely to write novels set in Great Britain, while Cassidy hypothesized that female authors would be more likely to write novels set in foreign countries. After looking at the map, we found that female authors tended to set their stories in Great Britain. Interestingly enough, even though a majority of female authors set their novels in England, few of their titles mention places found in London. Instead they featured smaller British cities and towns. According to our data only male authors and a few authors of indeterminate gender featured London-based locations in their title pages. See the chart for gender and location differences. 
+<p>However, we wanted to know which gender was more likely to set their stories in foreign (or even imaginary!) lands. Two of our researchers had opposing views on this matter. Ina hypothesized that female authors would be more likely to write novels set in Great Britain, while Cassidy hypothesized that female authors would be more likely to write novels set in foreign countries. After looking at the map, we found that female authors tended to set their stories in Great Britain. Interestingly enough, even though a majority of female authors set their novels in England, few of their titles mention places found in London. Instead they featured smaller British cities and towns. According to our data only male authors and a few authors of indeterminate gender featured London-based locations in their title pages. See the chart for gender and location differences. 
 </p>
 
 <p> Our sample shows that more male authors were writing novels that explicitly advertised a location in Asia on their title page.</p>
