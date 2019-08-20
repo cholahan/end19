@@ -1,6 +1,6 @@
 ---
 layout: page
-title : Method
+title : Outcome
 permalink: /outcome/
 subtitle: ""
 feature-img: "assets/img/sails.jpg"
