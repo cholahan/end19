@@ -33,18 +33,20 @@ feature-img: "assets/img/sails.jpg"
 
 <p> Our sample shows that more male authors were writing novels that explicitly advertised a location in Asia on their title page.</p>
 
-<img src="{{ site.baseurl }}/assets/img/outcome/outcome_gender_Asia.png” alt="">
+<img src="{{ site.baseurl }}/assets/img/outcome/chart-gender.jpg">
+
+<img src="{{ site.baseurl }}/assets/img/outcome/outcome_gender_Asia.png”>
 
 <p>The most popular narrative form is third-person while the second most popular is first-person. There was a rise in third-person narrative from 1750 to 1850, while the first-person and epistolary form was primarily used during the rise of novels from the late 17th century to the early 18th century. 
 </p>
 
 <p> We were also able to observe some (loose) patterns around the novels' publication dates. For example, we found that most of the novels that mention a location in Ireland in their title page tend to be published between 1750-1800 (light green) and 1800-1850 (dark green). This is especially noticable given that a smaller section of our sample was published post-1800.</p>
 
-<img src="{{ site.baseurl }}/assets/img/outcome/dates_Ireland.png” alt="">
+<img src="{{ site.baseurl }}/assets/img/outcome/dates_Ireland.png”>
 
 <p> Unsuprisingly, we also found that many of the U.S. locations were mentioned in novels published between 1750-1800 (light green) and 1800-1850 (dark green).</p>
   
-<img src="{{ site.baseurl }}/assets/img/outcome/dates_US.png” alt="">
+<img src="{{ site.baseurl }}/assets/img/outcome/dates_US.png”>
 
 
 {% include portfolio.html %}
