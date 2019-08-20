@@ -9,8 +9,8 @@ feature-img: "assets/img/sails.jpg"
 <p style="margin-left: 50px; margin-right: 50px"> Outcomes - Conclusion/Takeaways </p> 
   
 
-<p>While creating our map, we were especially interested in answering several questions: 
-- Did British authors prefer to write novels set in their own country or in foreign lands?
+<p>While creating our map, we were especially interested in answering several questions:</p>
+<p>- Did British authors prefer to write novels set in their own country or in foreign lands?
 - Was there a difference between the genders in this subject? 
 - Which location was mentioned the most in the title pages?
 - What was the most popular narrative form used, and in what time period were those narrative forms most prevalent?</p>
