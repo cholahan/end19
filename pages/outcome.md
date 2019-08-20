@@ -30,6 +30,5 @@ feature-img: "assets/img/sails.jpg"
 <p>The most popular narrative form is third-person while the second most popular is first-person. There was a rise in third-person narrative from 1750 to 1850, while the first-person and epistolary form was primarily used during the rise of novels from the late 17th century to the early 18th century. 
 </p>
 
----
 
 {% include portfolio.html %}
