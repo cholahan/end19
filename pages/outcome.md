@@ -33,9 +33,8 @@ feature-img: "assets/img/sails.jpg"
 
 <p> Our sample shows that more male authors were writing novels that explicitly advertised a location in Asia on their title page.</p>
 
-<img src="{{ site.baseurl }}/assets/img/outcome/chart-gender.jpg">
+<img src="{{ site.baseurl }}/assets/img/outcome/outcome_gender_Asia.png">
 
-<img src="{{ site.baseurl }}/assets/img/outcome/outcome_gender_Asia.png”>
 
 <p>The most popular narrative form is third-person while the second most popular is first-person. There was a rise in third-person narrative from 1750 to 1850, while the first-person and epistolary form was primarily used during the rise of novels from the late 17th century to the early 18th century. 
 </p>
