@@ -3,6 +3,9 @@ layout: page-wide
 title: Map
 permalink: /map/
 ---
+
+## [Map of Locations Mentioned in Title Pages of Early Novels](https://arcg.is/1XuzzH)
+
 <h2 align="center"><a href="https://arcg.is/1XuzzH" target="blank"><font color="blue">Map of Locations Mentioned in Title Pages of Early Novels</font></a></h2>
 
 ---
