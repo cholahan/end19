@@ -6,10 +6,11 @@ subtitle: ""
 feature-img: "assets/img/sails.jpg"
 ---
 
-<p style="margin-left: 50px; margin-right: 50px"> Outcomes - Conclusion/Takeaways </p> 
+<p>Outcomes - Conclusion/Takeaways </p> 
   
 
-<p>While creating our map, we were especially interested in answering several questions:</p>
+<p style="margin-left: 50px; margin-right: 50px">  While creating our map, we were especially interested in answering several questions:</p>
+ 
  <p>- Did British authors prefer to write novels set in their own country or in foreign lands?</p>
  <p>- Was there a difference between the genders in this subject?</p>
  <p>- Which location was mentioned the most in the title pages?</p>
