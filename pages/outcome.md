@@ -20,6 +20,9 @@ feature-img: "assets/img/sails.jpg"
 <p style="margin-left: 50px; margin-right: 50px">- Which location was mentioned the most in the title pages?</p>
 <p style="margin-left: 50px; margin-right: 50px">- What was the most popular narrative form used, and in what time period were those narrative forms most prevalent?</p>
 
+<img src="{{ site.baseurl }}/assets/img/outcome/outcome_popularlocations_updated.jpg" alt="chart-gender">
+<img src="{{ site.baseurl }}/assets/img/outcome/outcome_locations_USregions.png" alt="chart-gender">
+<img src="{{ site.baseurl }}/assets/img/outcome/outcome_cities.jpg" alt="chart-gender">
 
 <p>Because our dataset primarily contains British authors, it is not surprising that Great Britain was the most mentioned country and London was the most mentioned city in the title pages for early English novels. The next most popular city was Paris, but that does not mean that France was the next popular country. After Britain, the United States (or the American colonies at the time) was the next most polar region to feature in book titles.</p>
 
