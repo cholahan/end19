@@ -3,7 +3,7 @@ layout: post
 title : Process
 permalink: /process/
 subtitle: "Our project planning"
-feature-img: "assets/img/process.jpg"
+feature-img: "assets/img/abby.jpg"
 ---
 
 * TOC
