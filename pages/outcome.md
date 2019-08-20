@@ -44,7 +44,7 @@ feature-img: "assets/img/sails.jpg"
 
 <p> Unsuprisingly, we also found that many of the U.S. locations were mentioned in novels published between 1750-1800 (light green) and 1800-1850 (dark green).</p>
   
-<img src="{{ site.baseurl }}/assets/img/outcome/dates_US.png” alt="chart-gender">
+<img src="{{ site.baseurl }}/assets/img/outcome/dates_US.png” alt="dates-US">
 
 
 {% include portfolio.html %}
