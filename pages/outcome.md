@@ -65,5 +65,3 @@ feature-img: "assets/img/sails.jpg"
 <img src="{{ site.baseurl }}/assets/img/outcome/dates_US.png">
 
 <hr> 
-
-{% include portfolio.html %}
