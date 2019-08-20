@@ -1,7 +1,7 @@
 ---
 layout: post
 title : Method
-permalink: /process/
+permalink: /method/
 subtitle: "Process"
 feature-img: "assets/img/abby.jpg"
 ---
