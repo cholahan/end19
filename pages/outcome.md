@@ -20,6 +20,8 @@ feature-img: "assets/img/sails.jpg"
 <p style="margin-left: 50px; margin-right: 50px">- Which location was mentioned the most in the title pages?</p>
 <p style="margin-left: 50px; margin-right: 50px">- What was the most popular narrative form used, and in what time period were those narrative forms most prevalent?</p>
 
+<p> We first looked at the prevelance of certain locations that were mentioned in the title pages of the novels - indicating that the author or publisher was trying to, in part, 'sell' the book based on interest in that location. </p> 
+
 <img src="{{ site.baseurl }}/assets/img/outcome/outcome_popularlocations_updated.jpg" alt="chart-gender">
 <img src="{{ site.baseurl }}/assets/img/outcome/outcome_locations_USregions.png" alt="chart-gender">
 <img src="{{ site.baseurl }}/assets/img/outcome/outcome_cities.jpg" alt="chart-gender">
