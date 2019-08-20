@@ -15,15 +15,14 @@ feature-img: "assets/img/sails.jpg"
   
 <p>While creating our map, we were especially interested in answering several questions:</p>
  
-<p style="margin-left: 50px; margin-right: 50px"> - Did British authors prefer to write novels set in their own country or in foreign lands?</p>
-<p style="margin-left: 50px; margin-right: 50px">- Was there a difference between the genders in this subject?</p>
-<p style="margin-left: 50px; margin-right: 50px">- Which location was mentioned the most in the title pages?</p>
-<p style="margin-left: 50px; margin-right: 50px">- What was the most popular narrative form used, and in what time period were those narrative forms most prevalent?</p>
+<p style="margin-left: 50px; margin-right: 50px"> ~ Did British authors prefer to write novels set in their own country or in foreign lands?</p>
+<p style="margin-left: 50px; margin-right: 50px"> ~ Was there a difference between the genders in this subject?</p>
+<p style="margin-left: 50px; margin-right: 50px"> ~ Which location was mentioned the most in the title pages?</p>
+<p style="margin-left: 50px; margin-right: 50px"> ~ What was the most popular narrative form used, and in what time period were those narrative forms most prevalent?</p>
 
-<p> We first looked at the prevelance of certain locations that were mentioned in the title pages of the novels - indicating that the author or publisher was trying to, in part, 'sell' the book based on interest in that location. </p> 
+<p> We first looked at the prevelance of certain locations that were mentioned in the title pages of the novels - indicating that the author or publisher was trying to, in part, 'sell' the book based on interest in that location.</p> 
 
 <p>Because our dataset primarily contains British authors, it is not surprising that Great Britain was the most mentioned country and London was the most mentioned city in the title pages for early English novels. The next most popular city was Paris, but that does not mean that France was the next popular country. After Britain, the United States (or the American colonies at the time) was the next most popular region to feature in book titles.</p>
-
 
 <img src="{{ site.baseurl }}/assets/img/outcome/outcome_popularlocations_updated.jpg">
 <img src="{{ site.baseurl }}/assets/img/outcome/outcome_cities.jpg">
