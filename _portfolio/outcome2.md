@@ -8,9 +8,11 @@ tags:
 
 ![image]({{ page.img | relative_url }})
 
+---
+
 Did British authors prefer to write novels set in their own country or in foreign lands? Was there a difference between the genders in this subject? 
 
-![chart-gender]({{site.baseurl}}/assets/img/outcomes/chart-gender.jpg)
+![chart-gender]({{site.baseurl}}/assets/img/outcome/chart-gender.jpg)
 
 Because our dataset primarily contains British authors, it is not surprising that places in Great Britain were the most mentioned location in the title pages for early English novels.
 
