@@ -41,11 +41,11 @@ feature-img: "assets/img/sails.jpg"
 
 <p> We were also able to observe some (loose) patterns around the novels' publication dates. For example, we found that most of the novels that mention a location in Ireland in their title page tend to be published between 1750-1800 (light green) and 1800-1850 (dark green). This is especially noticable given that a smaller section of our sample was published post-1800.</p>
 
-<img src="{{ site.baseurl }}/assets/img/outcome/dates_Ireland.png”>
+<img src="{{ site.baseurl }}/assets/img/outcome/dates_Ireland.png">
 
 <p> Unsuprisingly, we also found that many of the U.S. locations were mentioned in novels published between 1750-1800 (light green) and 1800-1850 (dark green).</p>
   
-<img src="{{ site.baseurl }}/assets/img/outcome/dates_US.png”>
+<img src="{{ site.baseurl }}/assets/img/outcome/dates_US.png">
 
 
 {% include portfolio.html %}
