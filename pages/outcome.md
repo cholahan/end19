@@ -22,7 +22,7 @@ feature-img: "assets/img/sails.jpg"
 
 <p> We first looked at the prevelance of certain locations that were mentioned in the title pages of the novels - indicating that the author or publisher was trying to, in part, 'sell' the book based on interest in that location.</p> 
 
-<p>Because our dataset primarily contains British authors, it is not surprising that Great Britain was the most mentioned country and London was the most mentioned city in the title pages for early English novels. The next most popular city was Paris, but that does not mean that France was the next popular country. After Britain, the United States (or the American colonies at the time) was the next most popular region to feature in book titles.</p>
+<p>Because our dataset primarily contains British authors, it is not surprising that Great Britain was the most mentioned country and London was the most mentioned city in the title pages for early English novels. The next most popular city was Paris, but that does not mean that France was the next popular country. After Britain, locations in the United States (or the American colonies at the time) was the next most popular region to feature in book titles. It is also interesting to note that the most frequently mentioned place outside of Europe, other than the United States, is India, with 20 locations referring to that country or a place within it.</p>
 
 <img src="{{ site.baseurl }}/assets/img/outcome/outcome_popularlocations_updated.jpg">
 <img src="{{ site.baseurl }}/assets/img/outcome/outcome_cities.jpg">
