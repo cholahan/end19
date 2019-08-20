@@ -7,7 +7,6 @@ date: August, 14 2019
 
 ![image]({{ page.img | relative_url }})
 
----
 
 
 
