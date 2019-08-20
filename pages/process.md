@@ -32,4 +32,4 @@ Once we mapped the locations, we created four additional maps: a heat map showin
 
 # Conclusions: Takeaways
 
-See our conclusions and takeaways here.
+See our conclusions and takeaways [here.](/end19/outcome).
