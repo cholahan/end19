@@ -9,10 +9,10 @@ feature-img: "assets/img/sails.jpg"
 <p style="margin-left: 50px; margin-right: 50px"> Outcomes - Conclusion/Takeaways 
 
 While creating our map, we were especially interested in answering several questions: 
-Did British authors prefer to write novels set in their own country or in foreign lands?
-Was there a difference between the genders in this subject? 
-Which location was mentioned the most in the title pages?
-What was the most popular narrative form used, and in what time period were those narrative forms most prevalent?
+- Did British authors prefer to write novels set in their own country or in foreign lands?
+- Was there a difference between the genders in this subject? 
+- Which location was mentioned the most in the title pages?
+- What was the most popular narrative form used, and in what time period were those narrative forms most prevalent?
 
 
 Because our dataset primarily contains British authors, it is not surprising that Great Britain was the most mentioned country and London was the most mentioned city in the title pages for early English novels. The next most popular city was Paris, but that does not mean that France was the next popular country. After Britain, the United States (or the American colonies at the time) was the next most polar region to feature in book titles. 
