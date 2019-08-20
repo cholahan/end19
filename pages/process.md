@@ -1,8 +1,8 @@
 ---
 layout: post
-title : Process
+title : Method
 permalink: /process/
-subtitle: "Our project planning"
+subtitle: "Process"
 feature-img: "assets/img/abby.jpg"
 ---
 
