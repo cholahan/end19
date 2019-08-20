@@ -47,7 +47,7 @@ feature-img: "assets/img/sails.jpg"
 
 <p>If we look at all cities mentioned in the title pages of <i>only</i> Female-authored novels, York and Philadelphia are more frequent. Numerous cities that we charted as popular in the title pages of novels, including Westminster and Bath, are not mentioned at all in the novels that have been categorized as female-authored.</p>
   
-<img src="{{ site.baseurl }}/assets/img/outcome_cities_female.png">
+<img src="{{ site.baseurl }}/assets/img/outcome_cities_female.jpg">
 
 <p> Our sample shows that more male authors were writing novels that explicitly advertised a location in Asia on their title page.</p>
 
