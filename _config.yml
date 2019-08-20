@@ -22,7 +22,7 @@ theme_settings:
   header_text: Mapping locations in the title pages of 18th century novels
   header_feature_image: assets/img/map_africa.jpg
   footer_text: >
-    A project using <a href="https://earlynovels.github.io/" target="blank">END Data</a></a>
+    <a href="https://github.com/cholahan/end19/">GitHub</a> | A project using <a href="https://earlynovels.github.io/" target="blank">END Data</a></a>
 
   # Icons
   rss:   # Make sure you created a feed.xml with feed.xml layout
