@@ -3,7 +3,7 @@ layout: post
 title: Example
 feature-img: "assets/img/portfolio/2.jpg"
 img: "assets/img/portfolio/2.jpg"
-date: August 5, 2019
+date: August 15, 2019
 ---
 
-A final example.
+![image]({{ page.img | relative_url }})
