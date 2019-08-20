@@ -38,7 +38,7 @@ feature-img: "assets/img/sails.jpg"
 
 <p>However, we wanted to know which gender was more likely to set their stories in foreign (or even imaginary!) lands. Two of our researchers had opposing views on this matter. Ina hypothesized that female authors would be more likely to write novels set in Great Britain, while Cassidy hypothesized that female authors would be more likely to write novels set in foreign countries. After looking at the map, we found that female authors tended to set their stories in Great Britain.</p>
 
-<img src="{{ site.baseurl }}/assets/img/outcome/outcome_popularity_female.jpg" alt="female_authors">
+<img src="{{ site.baseurl }}/assets/img/outcome/outcome_popularity_female.png" alt="female_authors">
   
 <p>Interestingly enough, even though a majority of female authors set their novels in England, few of their titles mention places found in London. Instead they featured smaller British cities and towns. According to our data only male authors and a few authors of indeterminate gender featured London-based locations in their title pages. In the map below, red dots reference locations in novels written by male authors, and blue dots represent books where the author is not known or was not added to our dataset.  
 </p>
@@ -47,7 +47,7 @@ feature-img: "assets/img/sails.jpg"
 
 <p>If we look at all cities mentioned in the title pages of <i>only</i> Female-authored novels, York and Philadelphia are more frequent. Numerous cities that we charted as popular in the title pages of novels, including Westminster and Bath, are not mentioned at all in the novels that have been categorized as female-authored.</p>
   
-<img src="{{ site.baseurl }}/assets/img/outcome_cities_female.jpg">
+<img src="{{ site.baseurl }}/assets/img/outcome_cities_female.png">
 
 <p> Our sample shows that more male authors were writing novels that explicitly advertised a location in Asia on their title page.</p>
 
