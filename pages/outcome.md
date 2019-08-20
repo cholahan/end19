@@ -1,6 +1,6 @@
 ---
 layout: page
-title : Outcomes
+title : Outcome
 permalink: /outcome/
 subtitle: ""
 feature-img: "assets/img/sails.jpg"
