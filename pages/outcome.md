@@ -25,12 +25,12 @@ feature-img: "assets/img/sails.jpg"
 <p>Because our dataset primarily contains British authors, it is not surprising that Great Britain was the most mentioned country and London was the most mentioned city in the title pages for early English novels. The next most popular city was Paris, but that does not mean that France was the next popular country. After Britain, the United States (or the American colonies at the time) was the next most polar region to feature in book titles.</p>
 
 
-<img src="{{ site.baseurl }}/assets/img/outcome/outcome_popularlocations_updated.jpg" alt="chart-gender">
-<img src="{{ site.baseurl }}/assets/img/outcome/outcome_cities.jpg" alt="chart-gender">
+<img src="{{ site.baseurl }}/assets/img/outcome/outcome_popularlocations_updated.jpg">
+<img src="{{ site.baseurl }}/assets/img/outcome/outcome_cities.jpg">
 
 <p>We found that 
 
-<img src="{{ site.baseurl }}/assets/img/outcome/outcome_locations_USregions.png" alt="chart-gender">
+<img src="{{ site.baseurl }}/assets/img/outcome/outcome_locations_USregions.png">
 
 <p>Given the time in which the authors are writing (the 17th and 18th centuries), most of the authors from our dataset were male.</P>
 
@@ -55,5 +55,6 @@ feature-img: "assets/img/sails.jpg"
   
 <img src="{{ site.baseurl }}/assets/img/outcome/dates_US.png">
 
+<hr> 
 
 {% include portfolio.html %}
