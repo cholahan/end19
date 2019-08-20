@@ -4,9 +4,7 @@ title: Map
 permalink: /map/
 ---
 
-## [Map of Locations Mentioned in Title Pages of Early Novels](https://arcg.is/1XuzzH)
-
-<h2 align="center"><a href="https://arcg.is/1XuzzH" target="blank"><font color="blue">Map of Locations Mentioned in Title Pages of Early Novels</font></a></h2>
+<h2><a href="https://arcg.is/1XuzzH" target="blank">Map of Locations Mentioned in Title Pages of Early Novels</a></h2>
 
 ---
 <p style="margin-left: 50px; margin-right: 50px"><b>How to use this map</b>:
