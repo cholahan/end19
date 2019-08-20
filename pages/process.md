@@ -10,7 +10,7 @@ feature-img: "assets/img/process.jpg"
 {:toc}
 
 ---
-# Reserach Questions
+# Research Questions
 
 When thinking of a project for the Early Novels Database, we aim to utilize the information from the dataset to answer questions concerning metadata and literary trends. The inspiration behind this particular project stemmed from Ina Chen’s previous summer END project, [“Plotting Defoe's Adventure Novels: 18th Century Adventure and Travel Literature Emotion Map Project”](https://redadvance.github.io/defoemap/), a personal project that aimed to map out titles using the same Early Novels Dataset. From there we decided to use this year’s project to delve deeper into the element of place in early novels. As seen in English adventure novels such as Gulliver’s Tales and Robinson Crusoe, the author’s focus and description of a certain location not only reflected their own preconceptions of that place but the preconceptions of their fellow countrymen.
 
