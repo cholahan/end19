@@ -64,6 +64,6 @@ feature-img: "assets/img/sails.jpg"
 <p><b>Questions for the Future</b></p>
 
 <p>Some other questions we have going forward are:</p>
-<p style="margin-left: 50px; margin-right: 50px"> ~ Were certain locations more popular in certain genres (for example: which locations</p>
+<p style="margin-left: 50px; margin-right: 50px"> ~ Were certain locations more popular in certain genres (for example: which locations are more prevalent in gothic novels or romances).</p>
 
 <hr> 
