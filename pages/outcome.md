@@ -15,10 +15,6 @@ feature-img: "assets/img/sails.jpg"
   
 <p>While creating our map, we were especially interested in answering several questions:</p>
  
-<p style="margin-left: 50px; margin-right: 50px"> ~ Did British authors prefer to write novels set in their own country or in foreign lands?</p>
-<p style="margin-left: 50px; margin-right: 50px"> ~ Was there a difference between the genders in this subject?</p>
-<p style="margin-left: 50px; margin-right: 50px"> ~ Which location was mentioned the most in the title pages?</p>
-<p style="margin-left: 50px; margin-right: 50px"> ~ What was the most popular narrative form used, and in what time period were those narrative forms most prevalent?</p>
 
 <p> We first looked at the prevelance of certain locations that were mentioned in the title pages of the novels - indicating that the author or publisher was trying to, in part, 'sell' the book based on interest in that location.</p> 
 
@@ -64,5 +60,10 @@ feature-img: "assets/img/sails.jpg"
 <p> Unsuprisingly, we also found that many of the U.S. locations were mentioned in novels published between 1750-1800 (light green) and 1800-1850 (dark green).</p>
   
 <img src="{{ site.baseurl }}/assets/img/outcome/dates_US.png">
+
+<p><b>Questions for the Future</b></p>
+
+<p>Some other questions we have going forward are:</p>
+<p style="margin-left: 50px; margin-right: 50px"> ~ Were certain locations more popular in certain genres (for example: which locations</p>
 
 <hr> 
