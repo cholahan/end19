@@ -7,16 +7,13 @@ feature-img: "assets/img/sails.jpg"
 ---
 ## Outcomes - Conclusion/Takeaway
 
-<p>The title of a book cannot always accurately give us information about the setting(s) within a novel because the characters may travel to multiple locations within the actual story. This project instead aims to see which locations were important enough for authors to mention in their titles. In the 18th century many readers could only look to the title page in order to get information about which books to buy and read. The author provided a location in the title not only help describe the novel to potential readers, but it most likely indicated that the publisher thought a specific location would help sell the book.</p>   
+The title of a book cannot always accurately give us information about the setting(s) within a novel because the characters may travel to multiple locations within the actual story. This project instead aims to see which locations were important enough for authors to mention in their titles. In the 18th century many readers could only look to the title page in order to get information about which books to buy and read. The author provided a location in the title not only help describe the novel to potential readers, but it most likely indicated that the publisher thought a specific location would help sell the book.</p>   
 
-
-<p>While creating our map, we were especially interested in answering several questions:</p>
-
-<p> ~Did British authors prefer to write novels set in their own country or in foreign lands?</p>
-<p> ~Was there a difference between the genders in this subject?</p>
-<p> ~Which location was mentioned the most in the title pages?</p>
-<p> ~What was the most popular narrative form used, and in what time period were those narrative forms most prevalent?</p>
-
+While creating our map, we were especially interested in answering several questions:
+ - Did British authors prefer to write novels set in their own country or in foreign lands?
+ - Was there a difference between the genders in this subject?
+ - Which location was mentioned the most in the title pages?
+ - What was the most popular narrative form used, and in what time period were those narrative forms most prevalent?
 
 We first looked at the prevelance of certain locations that were mentioned in the title pages of the novels - indicating that the author or publisher was trying to, in part, 'sell' the book based on interest in that location.
 
