@@ -37,9 +37,7 @@ However, we wanted to know which gender was more likely to set their stories in 
 
 Interestingly enough, even though a majority of female authors set their novels in England, few of their titles mention places found in London. Instead they featured smaller British cities and towns. According to our data only male authors and a few authors of indeterminate gender featured London-based locations in their title pages. In the map below, red dots reference locations in novels written by male authors, and blue dots represent books where the author is not known or was not added to our dataset.
 
-<img src="{{ site.baseurl }}/assets/img/outcome/gender_London.png">
-
-As you can see, books with London in the title are much more frequently written by men. Then add a bit why this is interesting… for example, many female-authored novels do frequently feature trips to London: for example, Francis Burney’s Evalina and many of Jane Austen’s novels in the early 19th c. Yet, their novels don’t advertise London explicitly. If you can, look back at the male-authored books that mention London. Perhaps this suggests that women are trying to “sell” novels about more innocent, virtuous characters, which are believed to originate from the countryside? Or do you have another hypothesis? Might the prevalence of gothic novels have something to do with this? 
+<img src="{{ site.baseurl }}/assets/img/outcome/gender_London.png"> 
 
 If we look at all the cities mentioned in the title pages of <i>only</i> Female-authored novels, York and Philadelphia are more frequent. Numerous cities that we charted as popular in the title pages of novels, including Westminster and Bath, are not mentioned at all in the novels that have been categorized as female-authored.
 
