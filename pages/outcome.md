@@ -5,6 +5,7 @@ permalink: /outcome/
 subtitle: ""
 feature-img: "assets/img/sails.jpg"
 ---
+
 ## Outcomes - Conclusion/Takeaway
 
 The title of a book cannot always accurately give us information about the setting(s) within a novel because the characters may travel to multiple locations within the actual story. This project instead aims to see which locations were important enough for authors to mention in their titles. In the 18th century many readers could only look to the title page in order to get information about which books to buy and read. The author provided a location in the title not only help describe the novel to potential readers, but it most likely indicated that the publisher thought a specific location would help sell the book.   
@@ -15,7 +16,7 @@ While creating our map, we were especially interested in answering several quest
  - Which location was mentioned the most in the title pages?
  - What was the most popular narrative form used, and in what time period were those narrative forms most prevalent?
 
-We first looked at the prevelance of certain locations that were mentioned in the title pages of the novels - indicating that the author or publisher was trying to, in part, 'sell' the book based on interest in that location.
+We first looked at the prevalence of certain locations that were mentioned in the title pages of the novels - indicating that the author or publisher was trying to, in part, 'sell' the book based on interest in that location.
 
 Because our dataset primarily contains British authors, it is not surprising that Great Britain was the most mentioned country and London was the most mentioned city in the title pages for early English novels. The next most popular city was Paris, but that does not mean that France was the next popular country. After Britain, locations in the United States (or the American colonies at the time) was the next most popular region to feature in book titles. It is also interesting to note that the most frequently mentioned place outside of Europe, other than the United States, is India, with 20 locations referring to that country or a place within it.
 
@@ -26,7 +27,7 @@ We found that many books, especially those published post-1750, mentioned the Un
 
 <img src="{{ site.baseurl }}/assets/img/outcome/outcome_locations_USregions.png">
 
-Given the time in which the authors are writing (in the long eighteenth century), it was not suprising that most of the authors from our dataset were male.
+Given the time in which the authors are writing (in the long eighteenth century), it was not surprising that most of the authors from our dataset were male.
 
 <img src="{{ site.baseurl }}/assets/img/outcome/chart-gender.jpg" alt="chart-gender">
 
@@ -38,7 +39,9 @@ Interestingly enough, even though a majority of female authors set their novels 
 
 <img src="{{ site.baseurl }}/assets/img/outcome/gender_London.png">
 
-If we look at all cities mentioned in the title pages of <i>only</i> Female-authored novels, York and Philadelphia are more frequent. Numerous cities that we charted as popular in the title pages of novels, including Westminster and Bath, are not mentioned at all in the novels that have been categorized as female-authored.
+As you can see, books with London in the title are much more frequently written by men. Then add a bit why this is interesting… for example, many female-authored novels do frequently feature trips to London: for example, Francis Burney’s Evalina and many of Jane Austen’s novels in the early 19th c. Yet, their novels don’t advertise London explicitly. If you can, look back at the male-authored books that mention London. Perhaps this suggests that women are trying to “sell” novels about more innocent, virtuous characters, which are believed to originate from the countryside? Or do you have another hypothesis? Might the prevalence of gothic novels have something to do with this? 
+
+If we look at all the cities mentioned in the title pages of <i>only</i> Female-authored novels, York and Philadelphia are more frequent. Numerous cities that we charted as popular in the title pages of novels, including Westminster and Bath, are not mentioned at all in the novels that have been categorized as female-authored.
 
 <img src="{{ site.baseurl }}/assets/img/outcome/outcome_cities_female.jpg">
 
@@ -46,18 +49,24 @@ Our sample shows that more male authors were writing novels that explicitly adve
 
 <img src="{{ site.baseurl }}/assets/img/outcome/outcome_gender_Asia.png">
 
-The most popular narrative form is third-person while the second most popular is first-person. There was a rise in third-person narrative from 1750 to 1850, while the first-person and epistolary form was primarily used during the rise of novels from the late 17th century to the early 18th century.
+The most popular narrative form is third-person while the second most popular is first-person. There was a rise in third-person narrative from 1750 to 1850, while the first-person and epistolary form was primarily used from the late 17th century to the early 18th century.
 
-We were also able to observe some (loose) patterns around the novels' publication dates. For example, we found that most of the novels that mention a location in Ireland in their title page tend to be published between 1750-1800 (light green) and 1800-1850 (dark green). This is especially noticable given that a smaller section of our sample was published post-1800.
+We were also able to observe some (loose) patterns around the novels' publication dates. For example, we found that most of the novels that mention a location in Ireland in their title page tend to be published between 1750-1800 (light green) and 1800-1850 (dark green). This is especially notable given that a smaller section of our sample was published post-1800.
 
 <img src="{{ site.baseurl }}/assets/img/outcome/dates_Ireland.png">
 
-Unsuprisingly, we also found that many of the U.S. locations were mentioned in novels published between 1750-1800 (light green) and 1800-1850 (dark green).
+Unsurprisingly, we also found that many of the U.S. locations were mentioned in novels published between 1750-1800 (light green) and 1800-1850 (dark green).
 
 <img src="{{ site.baseurl }}/assets/img/outcome/dates_US.png">
 
 ## Questions for the Future
 
 Some other questions we have going forward are:
+- How would we go about including all location adjectives, such as “French” or “Chinese”? Sometimes, in title pages, the publishers include “Translated from French” or “Originally in Chinese,” how might publishers use location adjective to sell their books?
 - Were certain locations more popular in certain genres (for example: which locations are more prevalent in gothic novels or romances).
+- If title pages have specific words that categorize the novels like “History of” or “Gothic tale” or “Romance of,” what trend could be seen among the location words in the title page? 
+
+
+
+
 
