@@ -7,7 +7,7 @@ feature-img: "assets/img/sails.jpg"
 ---
 ## Outcomes - Conclusion/Takeaway
 
-The title of a book cannot always accurately give us information about the setting(s) within a novel because the characters may travel to multiple locations within the actual story. This project instead aims to see which locations were important enough for authors to mention in their titles. In the 18th century many readers could only look to the title page in order to get information about which books to buy and read. The author provided a location in the title not only help describe the novel to potential readers, but it most likely indicated that the publisher thought a specific location would help sell the book.</p>   
+The title of a book cannot always accurately give us information about the setting(s) within a novel because the characters may travel to multiple locations within the actual story. This project instead aims to see which locations were important enough for authors to mention in their titles. In the 18th century many readers could only look to the title page in order to get information about which books to buy and read. The author provided a location in the title not only help describe the novel to potential readers, but it most likely indicated that the publisher thought a specific location would help sell the book.   
 
 While creating our map, we were especially interested in answering several questions:
  - Did British authors prefer to write novels set in their own country or in foreign lands?
