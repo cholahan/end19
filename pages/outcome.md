@@ -13,9 +13,9 @@ feature-img: "assets/img/sails.jpg"
 <p>While creating our map, we were especially interested in answering several questions:</p>
 
 <p> ~Did British authors prefer to write novels set in their own country or in foreign lands?</p>
-<p>Was there a difference between the genders in this subject?</p>
-<p>Which location was mentioned the most in the title pages?</p>
-<p>What was the most popular narrative form used, and in what time period were those narrative forms most prevalent?</p>
+<p> ~Was there a difference between the genders in this subject?</p>
+<p> ~Which location was mentioned the most in the title pages?</p>
+<p> ~What was the most popular narrative form used, and in what time period were those narrative forms most prevalent?</p>
 
 
 We first looked at the prevelance of certain locations that were mentioned in the title pages of the novels - indicating that the author or publisher was trying to, in part, 'sell' the book based on interest in that location.
