@@ -8,7 +8,11 @@ permalink: /map/
 
 ---
 <p style="margin-left: 50px; margin-right: 50px"><b>How to use this map</b>:
-Clicking on the points in the maps will show a pop up with more details. The "transcribed" location consists of the location exactly as it was transcribed from the title page by the END cataloger. The "controlled" location were edited so as to be readable by the ArcGIS geocoding software. In addition to the locations map, we have created several map layers which can be found by clicing on the arrow on the upper-left-hand side of the map. Unclick 'locations' and click on other layers to toggle between them. Once you have clicked on a map layer, such as author gender, click on the arrow on the right hand side to open up the map key. There will be some margin of error on this map due to the fact that, first, these locations were located and transcribed by human catalogers, and, second, the locations were geocoded automatically. Learn more about our data and the mapping process <a href="{{ site.url}}{{ site.baseurl}}/method/">here.</a> 
+Clicking on the points in the maps will show a pop up with more details. The "transcribed" location consists of the location exactly as it was transcribed from the title page by the END cataloger. The "controlled" location were edited so as to be readable by the ArcGIS geocoding software. In addition to the locations map, we have created several map layers which can be found by clicing on the arrow on the upper-left-hand side of the map. Unclick 'locations' and click on other layers to toggle between them. Once you have clicked on a map layer, such as author gender, click on the arrow on the right hand side to open up the map key. There will be some margin of error on this map due to the fact that, first, these locations were located and transcribed by human catalogers, and, second, the locations were geocoded automatically. 
+
+Imaginary Places are located in the Bay of Bengal. Unknown places are located in the Arabian Sea.
+  
+Learn more about our data and the mapping process <a href="{{ site.url}}{{ site.baseurl}}/method/">here.</a> 
 </p>
 
 ---
