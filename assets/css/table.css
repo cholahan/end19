@@ -6,7 +6,7 @@
  body {
      font-family: Helvetica;
      -webkit-font-smoothing: antialiased;
-     /*overflow-x: hidden;*/
+     overflow-x: hidden;
 }
  h2 {
      text-align: center;
@@ -33,7 +33,6 @@
      max-width: 100%;
      /*white-space: nowrap;*/
      background-color: white;
-     overflow: visible;
 }
  .fl-table td, .fl-table th {
      text-align: left;
@@ -46,12 +45,6 @@
  .fl-table thead th {
      color: #ffffff;
      background: #4FC3A1;
-     position: -webkit-sticky;
-     position: -moz-sticky;
-     position: -ms-sticky;
-     position: -o-sticky;
-     position: sticky;
-     top: 58px;
 }
  .fl-table thead th:nth-child(odd) {
      color: #ffffff;
