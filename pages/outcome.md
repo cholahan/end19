@@ -20,6 +20,8 @@ We first looked at the prevalence of certain locations that were mentioned in th
 
 Because our dataset primarily contains British authors, it is not surprising that Great Britain was the most mentioned country and London was the most mentioned city in the title pages for early English novels. The next most popular city was Paris, but that does not mean that France was the next popular country. After Britain, locations in the United States (or the American colonies at the time) was the next most popular region to feature in book titles. It is also interesting to note that the most frequently mentioned place outside of Europe, other than the United States, is India, with 20 locations referring to that country or a place within it.
 
+It is possible that Paris was frequently mentioned due to its status as a fashionable hub of European culture, so many English readers were interested in reading books related to Paris. On the other hand, the young nation of the United States was still a source of wonder and curiosity to many English readers, especially novels that involved Native Americans. 
+
 <img src="{{ site.baseurl }}/assets/img/outcome/outcome_popularlocations_updated.jpg">
 <img src="{{ site.baseurl }}/assets/img/outcome/outcome_cities.jpg">
 
@@ -65,6 +67,9 @@ Some other questions we have going forward are:
 - How would we go about including all location adjectives, such as “French” or “Chinese”? Sometimes, in title pages, the publishers include “Translated from French” or “Originally in Chinese,” how might publishers use location adjective to sell their books?
 - Were certain locations more popular in certain genres (for example: which locations are more prevalent in gothic novels or romances).
 - If title pages have specific words that categorize the novels like “History of” or “Gothic tale” or “Romance of,” what trend could be seen among the location words in the title page? 
+- Were novels containing American locations in their title pages published more frequently in American cities or British cities? Was the United States advertised as a wild frontier to entertain British readers, or simply as a familiar place for American readers? 
+
+
 
 
 
