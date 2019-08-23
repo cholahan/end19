@@ -35,9 +35,11 @@ However, we wanted to know which gender was more likely to set their stories in 
 
 <img src="{{ site.baseurl }}/assets/img/outcome/outcome_popularity_female.png" alt="female_authors">
 
-Interestingly enough, even though a majority of female authors set their novels in England, few of their titles mention places found in London. Instead they featured smaller British cities and towns. According to our data only male authors and a few authors of indeterminate gender featured London-based locations in their title pages. In the map below, red dots reference locations in novels written by male authors, and blue dots represent books where the author is not known or was not added to our dataset.
+Interestingly enough, even though a majority of female authors set their novels in England, few of their titles mention places found in London. Instead they tended to feature smaller British cities and towns. According to our data it was mostly male authors and a few authors of indeterminate gender featured London-based locations in their title pages, with only three female authors as the exception. In the map below, red dots reference locations in novels written by male authors, and blue dots represent books where the author is not known or was not added to our dataset.
 
 <img src="{{ site.baseurl }}/assets/img/outcome/gender_London.png"> 
+
+Many female-authored novels do frequently feature trips to London, such as Francis Burney’s Evalina and many of Jane Austen’s novels in the early 19th century, and yet their novels don’t advertise London explicitly. It possible that this suggests that women were trying to “sell” novels about more innocent, virtuous characters, which were believed to originate from the countryside.
 
 If we look at all the cities mentioned in the title pages of <i>only</i> Female-authored novels, York and Philadelphia are more frequent. Numerous cities that we charted as popular in the title pages of novels, including Westminster and Bath, are not mentioned at all in the novels that have been categorized as female-authored.
 
